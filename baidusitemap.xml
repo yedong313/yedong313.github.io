@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/10/24/my-blog/</loc>
+    <lastmod>2016-10-24T06:45:34.267Z</lastmod>
+    <data>
+        <display>
+        <title>my blog</title>
+        <pubTime>2016-10-24T06:42:30.000Z</pubTime>
+        
+        <tag>hexo,github,markdown</tag>
+         
+         
+           
+             
+              <breadCrumb title="it脉络" url="http://yoursite.com/categories/it%E8%84%89%E7%BB%9C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>

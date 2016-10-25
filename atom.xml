@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yedong&#39;blog</title>
+  <subtitle>it小白的进阶之路</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-10-24T06:45:34.267Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Dong Ye</name>
+    <email>2924493534@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my blog</title>
+    <link href="http://yoursite.com/2016/10/24/my-blog/"/>
+    <id>http://yoursite.com/2016/10/24/my-blog/</id>
+    <published>2016-10-24T06:42:30.000Z</published>
+    <updated>2016-10-24T06:45:34.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的第一篇博客！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;欢迎来到我的第一篇博客！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="it脉络" scheme="http://yoursite.com/categories/it%E8%84%89%E7%BB%9C/"/>
+    
+    
+      <category term="hexo,github,markdown" scheme="http://yoursite.com/tags/hexo-github-markdown/"/>
+    
+  </entry>
+  
+</feed>
