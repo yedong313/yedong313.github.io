@@ -5,21 +5,26 @@
     
   <url>
     <loc>http://yoursite.com/2016/10/24/my-blog/</loc>
-    <lastmod>2016-10-25T04:32:39.438Z</lastmod>
+    <lastmod>2016-10-25T05:08:55.432Z</lastmod>
     <data>
         <display>
         <title>my blog</title>
         <pubTime>2016-10-24T06:42:30.000Z</pubTime>
         
-        <tag>-hexo -github -markdown</tag>
+        <tag>hexo</tag>
+         
+        <tag>github</tag>
+         
+        <tag>markdown</tag>
          
          
            
              
-              <breadCrumb title="-it知识" url="http://yoursite.com/categories/it%E7%9F%A5%E8%AF%86/"/>
+              <breadCrumb title="it知识" url="http://yoursite.com/categories/it%E7%9F%A5%E8%AF%86/"/>
           
         </display>
     </data>
     </url>
 
+    
 </urlset>
