@@ -922,6 +922,9 @@ a
   list-style: disc;
   margin-left: 20px;
 }
+#sidebar .fish {
+  height: 18 wv;
+}
 #sidebar .search {
   margin-bottom: 30px;
 }
