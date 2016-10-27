@@ -4,9 +4,9 @@
   <subtitle>it小白的进阶之路</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://yedong313.github.io/"/>
   <updated>2016-10-25T07:50:46.441Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://yedong313.github.io/</id>
   
   <author>
     <name>Dong Ye</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>my blog</title>
-    <link href="http://yoursite.com/2016/10/24/my-blog/"/>
-    <id>http://yoursite.com/2016/10/24/my-blog/</id>
+    <link href="https://yedong313.github.io/2016/10/24/my-blog/"/>
+    <id>https://yedong313.github.io/2016/10/24/my-blog/</id>
     <published>2016-10-24T06:42:30.000Z</published>
     <updated>2016-10-25T07:50:46.441Z</updated>
     
@@ -32,14 +32,14 @@
     
     </summary>
     
-      <category term="it知识" scheme="http://yoursite.com/categories/it%E7%9F%A5%E8%AF%86/"/>
+      <category term="it知识" scheme="https://yedong313.github.io/categories/it%E7%9F%A5%E8%AF%86/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://yedong313.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+      <category term="github" scheme="https://yedong313.github.io/tags/github/"/>
     
-      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+      <category term="markdown" scheme="https://yedong313.github.io/tags/markdown/"/>
     
   </entry>
   
