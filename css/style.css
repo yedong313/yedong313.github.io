@@ -922,12 +922,11 @@ a
   list-style: disc;
   margin-left: 20px;
 }
-#sidebar .fish {
-  height: 18 wv;
-}
+#sidebar .fish,
 #sidebar .search {
   margin-bottom: 30px;
 }
+#sidebar .fish input,
 #sidebar .search input {
   background: #fafafa;
   font-family: Helvetica Neue, Helvetica, Arial, "Hiragino Sans GB", sans-serif;
@@ -941,6 +940,7 @@ a
   box-sizing: border-box;
   color: #777;
 }
+#sidebar .fish input:focus,
 #sidebar .search input:focus {
   color: #000;
 }
